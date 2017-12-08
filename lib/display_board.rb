@@ -5,5 +5,5 @@ def display_board
 "   |   |   "
  -----------
 "   |   |   "
-print 3x3 tic tac toe board
+puts 3x3 tic tac toe board
 end
